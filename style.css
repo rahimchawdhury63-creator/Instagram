@@ -3,7 +3,9 @@ body {
   font-family: system-ui;
   background: #f4f6fb;
 }
-
+h1{
+  color: #2563eb;
+}
 .nav {
   display: flex;
   align-items: center;
